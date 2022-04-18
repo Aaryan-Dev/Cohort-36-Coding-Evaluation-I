@@ -1,0 +1,10 @@
+// You are given a number stored in a variable with the nameN
+
+// You have to print the value ofNraised to the power 10
+
+// For example, consider the value stored inN = 2, then2^10 = 2*2*2*2*2*2*2*2*2*2 = 1024, which is the required answer
+
+function raiseToPower10(N){
+    console.log(N**10);
+    }
+   
